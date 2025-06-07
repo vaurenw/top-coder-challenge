@@ -88,3 +88,10 @@ When you're ready to submit:
 ---
 
 **Good luck and Bon Voyage!**
+
+---
+
+# My solution
+
+On the public set:
+![alt text](image.png)
